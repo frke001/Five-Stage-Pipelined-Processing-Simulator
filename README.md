@@ -9,7 +9,7 @@ The simulator allows for specifying whether data forwarding between pipeline sta
 It also allows for printing cases where data forwarding occurs, with all relevant information (instruction serial numbers and their execution stages during forwarding). 
 Additionally, the simulator implements detection of hazards (RAW dependencies) between instructions in the input sequence.
 
-##Example Output
+## Example Output
 
 
 | Cycle | IF | ID | EX | MEM | WB |
